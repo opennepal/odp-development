@@ -1,0 +1,153 @@
+Year,Type of vehicle,Number of vehicle
+2000/01,Bus,197
+2000/01,Mini Bus,416
+2000/01,Truck/ Mini truck,509
+2000/01,car / Jeep/van,3754
+2000/01,Tempo,143
+2000/01,rackter/ power tello,132
+2000/01,Ambulance,7
+2000/01,C.D/U.N,117
+2000/01,Motorcycle,18728
+2001/02,Bus,170
+2001/02,Mini Bus,472
+2001/02,Truck/ Mini truck,751
+2001/02,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,31
+2001/02,car / Jeep/van,2568
+2001/02,Tempo,137
+2001/02,Ambulance,25
+2001/02,Motorcycle,22535
+2002/03,Bus,236
+2002/03,Mini Bus,232
+2002/03,Truck/ Mini truck,744
+2002/03,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,49
+2002/03,car / Jeep/van,1847
+2002/03,Pickup,351
+2002/03,Micro Bus,173
+2002/03,Tempo,9
+2002/03,Ambulance,26
+2002/03,C.D/U.N,154
+2002/03,Motorcycle,19322
+2003/04,Bus,285
+2003/04,Mini Bus,116
+2003/04,Truck/ Mini truck,540
+2003/04,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,11
+2003/04,car / Jeep/van,4961
+2003/04,Pickup,347
+2003/04,Micro Bus,675
+2003/04,Tempo,8
+2003/04,rackter/ power tello,4
+2003/04,Ambulance,8
+2003/04,Motorcycle,18289
+2004/05,Bus,198
+2004/05,Mini Bus,445
+2004/05,Truck/ Mini truck,440
+2004/05,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,58
+2004/05,car / Jeep/van,3156
+2004/05,Micro Bus,331
+2004/05,Tempo,24
+2004/05,Ambulance,7
+2004/05,C.D/U.N,114
+2004/05,Motorcycle,18986
+2005/06,Bus,806
+2005/06,Mini Bus,242
+2005/06,Truck/ Mini truck,1007
+2005/06,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,35
+2005/06,car / Jeep/van,3369
+2005/06,Pickup,17
+2005/06,Micro Bus,34
+2005/06,Tempo,36
+2005/06,C.D/U.N,234
+2005/06,Motorcycle,21001
+2006/07,Bus,420
+2006/07,Mini Bus,380
+2006/07,Truck/ Mini truck,509
+2006/07,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,81
+2006/07,car / Jeep/van,3624
+2006/07,Pickup,492
+2006/07,Micro Bus,79
+2006/07,Tempo,4
+2006/07,rackter/ power tello,48
+2006/07,Ambulance,39
+2006/07,C.D/U.N,80
+2006/07,Motorcycle,32503
+2007/08,Bus,531
+2007/08,Mini Bus,504
+2007/08,Truck/ Mini truck,948
+2007/08,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,191
+2007/08,car / Jeep/van,3359
+2007/08,Pickup,865
+2007/08,Micro Bus,17
+2007/08,Tempo,11
+2007/08,Ambulance,65
+2007/08,C.D/U.N,0
+2007/08,Motorcycle,36394
+2008/09,Bus,674
+2008/09,Mini Bus,490
+2008/09,Truck/ Mini truck,1230
+2008/09,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,383
+2008/09,car / Jeep/van,4362
+2008/09,Pickup,672
+2008/09,Micro Bus,53
+2008/09,Tempo,9
+2008/09,Ambulance,50
+2008/09,C.D/U.N,113
+2008/09,Motorcycle,42054
+2009/10,Bus,497
+2009/10,Mini Bus,268
+2009/10,Truck/ Mini truck,1488
+2009/10,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,748
+2009/10,car / Jeep/van,7435
+2009/10,Pickup,979
+2009/10,Micro Bus,78
+2009/10,Tempo,1
+2009/10,rackter/ power tello,4
+2009/10,Ambulance,53
+2009/10,C.D/U.N,126
+2009/10,Motorcycle,70527
+2010/11,Bus,389
+2010/11,Mini Bus,279
+2010/11,Truck/ Mini truck,801
+2010/11,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,435
+2010/11,car / Jeep/van,5417
+2010/11,Pickup,1523
+2010/11,Tempo,3
+2010/11,rackter/ power tello,1
+2010/11,Ambulance,28
+2010/11,C.D/U.N,0
+2010/11,Motorcycle,55065
+2011/12,Bus,392
+2011/12,Mini Bus,268
+2011/12,Truck/ Mini truck,355
+2011/12,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,173
+2011/12,car / Jeep/van,5561
+2011/12,Pickup,1387
+2011/12,Micro Bus,60
+2011/12,Tempo,0
+2011/12,rackter/ power tello,11
+2011/12,Ambulance,33
+2011/12,C.D/U.N,0
+2011/12,Motorcycle,44894
+2012/13,Bus,611
+2012/13,Mini Bus,374
+2012/13,Truck/ Mini truck,319
+2012/13,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,417
+2012/13,car / Jeep/van,6334
+2012/13,Pickup,2561
+2012/13,Micro Bus,105
+2012/13,Tempo,0
+2012/13,rackter/ power tello,4
+2012/13,Ambulance,28
+2012/13,C.D/U.N,14
+2012/13,Motorcycle,54051
+2013/14,Bus,217
+2013/14,Mini Bus,65
+2013/14,Truck/ Mini truck,105
+2013/14,Cren/Dazar/ Roler/Excav eter/lodar/gr eder,110
+2013/14,car / Jeep/van,3328
+2013/14,Pickup,877
+2013/14,Micro Bus,23
+2013/14,Tempo,0
+2013/14,rackter/ power tello,2
+2013/14,Ambulance,7
+2013/14,C.D/U.N,8
+2013/14,Motorcycle,20415

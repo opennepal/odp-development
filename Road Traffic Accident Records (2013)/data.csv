@@ -1,85 +1,85 @@
 Year AD,Year BS,Type of accidents,Number
-2001-02 ,2058/59,Accidents,3823.0
-2001-02 ,2058/59,Fatalities,879.0
-2001-02 ,2058/59,Serious Injuries,458.0
-2001-02 ,2058/59,Slight Injuries,4138.0
+2001-02 ,2058/59,Accidents,3823
+2001-02 ,2058/59,Fatalities,879
+2001-02 ,2058/59,Serious Injuries,458
+2001-02 ,2058/59,Slight Injuries,4138
 2001-02 ,2058/59,Injury/ fatal ratio,5.23
-2001-02 ,2058/59,Total vehicles,362828.0
+2001-02 ,2058/59,Total vehicles,362828
 2001-02 ,2058/59,Fatality per 10000 vehicles,24.23
-2002-03 ,2059/60,Accidents,3864.0
-2002-03 ,2059/60,Fatalities,682.0
-2002-03 ,2059/60,Serious Injuries,785.0
-2002-03 ,2059/60,Slight Injuries,4442.0
+2002-03 ,2059/60,Accidents,3864
+2002-03 ,2059/60,Fatalities,682
+2002-03 ,2059/60,Serious Injuries,785
+2002-03 ,2059/60,Slight Injuries,4442
 2002-03 ,2059/60,Injury/ fatal ratio,7.66
-2002-03 ,2059/60,Total vehicles,400438.0
+2002-03 ,2059/60,Total vehicles,400438
 2002-03 ,2059/60,Fatality per 10000 vehicles,17.03
-2003-04 ,2060/61,Accidents,5430.0
-2003-04 ,2060/61,Fatalities,802.0
-2003-04 ,2060/61,Serious Injuries,1659.0
-2003-04 ,2060/61,Slight Injuries,3925.0
+2003-04 ,2060/61,Accidents,5430
+2003-04 ,2060/61,Fatalities,802
+2003-04 ,2060/61,Serious Injuries,1659
+2003-04 ,2060/61,Slight Injuries,3925
 2003-04 ,2060/61,Injury/ fatal ratio,6.96
-2003-04 ,2060/61,Total vehicles,440137.0
+2003-04 ,2060/61,Total vehicles,440137
 2003-04 ,2060/61,Fatality per 10000 vehicles,18.22
-2004-05 ,2061/62,Accidents,5532.0
-2004-05 ,2061/62,Fatalities,808.0
-2004-05 ,2061/62,Serious Injuries,1795.0
-2004-05 ,2061/62,Slight Injuries,4039.0
+2004-05 ,2061/62,Accidents,5532
+2004-05 ,2061/62,Fatalities,808
+2004-05 ,2061/62,Serious Injuries,1795
+2004-05 ,2061/62,Slight Injuries,4039
 2004-05 ,2061/62,Injury/ fatal ratio,7.22
-2004-05 ,2061/62,Total vehicles,480668.0
+2004-05 ,2061/62,Total vehicles,480668
 2004-05 ,2061/62,Fatality per 10000 vehicles,16.81
-2005-06 ,2062/63,Accidents,3894.0
-2005-06 ,2062/63,Fatalities,825.0
-2005-06 ,2062/63,Serious Injuries,1866.0
-2005-06 ,2062/63,Slight Injuries,3655.0
+2005-06 ,2062/63,Accidents,3894
+2005-06 ,2062/63,Fatalities,825
+2005-06 ,2062/63,Serious Injuries,1866
+2005-06 ,2062/63,Slight Injuries,3655
 2005-06 ,2062/63,Injury/ fatal ratio,6.69
-2005-06 ,2062/63,Total vehicles,536443.0
+2005-06 ,2062/63,Total vehicles,536443
 2005-06 ,2062/63,Fatality per 10000 vehicles,15.38
-2006-07 ,2063/64,Accidents,4546.0
-2006-07 ,2063/64,Fatalities,953.0
-2006-07 ,2063/64,Serious Injuries,2583.0
-2006-07 ,2063/64,Slight Injuries,5331.0
+2006-07 ,2063/64,Accidents,4546
+2006-07 ,2063/64,Fatalities,953
+2006-07 ,2063/64,Serious Injuries,2583
+2006-07 ,2063/64,Slight Injuries,5331
 2006-07 ,2063/64,Injury/ fatal ratio,8.3
-2006-07 ,2063/64,Total vehicles,625179.0
+2006-07 ,2063/64,Total vehicles,625179
 2006-07 ,2063/64,Fatality per 10000 vehicles,15.24
-2007-08 ,2064/65,Accidents,6821.0
-2007-08 ,2064/65,Fatalities,1131.0
-2007-08 ,2064/65,Serious Injuries,2663.0
-2007-08 ,2064/65,Slight Injuries,5245.0
+2007-08 ,2064/65,Accidents,6821
+2007-08 ,2064/65,Fatalities,1131
+2007-08 ,2064/65,Serious Injuries,2663
+2007-08 ,2064/65,Slight Injuries,5245
 2007-08 ,2064/65,Injury/ fatal ratio,6.99
-2007-08 ,2064/65,Total vehicles,710917.0
+2007-08 ,2064/65,Total vehicles,710917
 2007-08 ,2064/65,Fatality per 10000 vehicles,15.91
-2008-09 ,2065/66,Accidents,8353.0
-2008-09 ,2065/66,Fatalities,1356.0
-2008-09 ,2065/66,Serious Injuries,3609.0
-2008-09 ,2065/66,Slight Injuries,6457.0
+2008-09 ,2065/66,Accidents,8353
+2008-09 ,2065/66,Fatalities,1356
+2008-09 ,2065/66,Serious Injuries,3609
+2008-09 ,2065/66,Slight Injuries,6457
 2008-09 ,2065/66,Injury/ fatal ratio,7.42
-2008-09 ,2065/66,Total vehicles,813487.0
+2008-09 ,2065/66,Total vehicles,813487
 2008-09 ,2065/66,Fatality per 10000 vehicles,16.67
-2009-10 ,2066/67,Accidents,11747.0
-2009-10 ,2066/67,Fatalities,1734.0
-2009-10 ,2066/67,Serious Injuries,4130.0
-2009-10 ,2066/67,Slight Injuries,7383.0
+2009-10 ,2066/67,Accidents,11747
+2009-10 ,2066/67,Fatalities,1734
+2009-10 ,2066/67,Serious Injuries,4130
+2009-10 ,2066/67,Slight Injuries,7383
 2009-10 ,2066/67,Injury/ fatal ratio,6.64
-2009-10 ,2066/67,Total vehicles,1015271.0
+2009-10 ,2066/67,Total vehicles,1015271
 2009-10 ,2066/67,Fatality per 10000 vehicles,17.08
-2010-11 ,2067/68,Accidents,14013.0
-2010-11 ,2067/68,Fatalities,1689.0
-2010-11 ,2067/68,Serious Injuries,4018.0
-2010-11 ,2067/68,Slight Injuries,8503.0
+2010-11 ,2067/68,Accidents,14013
+2010-11 ,2067/68,Fatalities,1689
+2010-11 ,2067/68,Serious Injuries,4018
+2010-11 ,2067/68,Slight Injuries,8503
 2010-11 ,2067/68,Injury/ fatal ratio,7.41
-2010-11 ,2067/68,Total vehicles,1175824.0
+2010-11 ,2067/68,Total vehicles,1175824
 2010-11 ,2067/68,Fatality per 10000 vehicles,14.36
-2011-12 ,2068/69,Accidents,14297.0
-2011-12 ,2068/69,Fatalities,1837.0
-2011-12 ,2068/69,Serious Injuries,4018.0
-2011-12 ,2068/69,Slight Injuries,7811.0
+2011-12 ,2068/69,Accidents,14297
+2011-12 ,2068/69,Fatalities,1837
+2011-12 ,2068/69,Serious Injuries,4018
+2011-12 ,2068/69,Slight Injuries,7811
 2011-12 ,2068/69,Injury/ fatal ratio,6.44
-2011-12 ,2068/69,Total vehicles,1342927.0
+2011-12 ,2068/69,Total vehicles,1342927
 2011-12 ,2068/69,Fatality per 10000 vehicles,13.68
-2012-13 ,2069/70,Accidents,13582.0
-2012-13 ,2069/70,Fatalities,1816.0
-2012-13 ,2069/70,Serious Injuries,3986.0
-2012-13 ,2069/70,Slight Injuries,8000.0
+2012-13 ,2069/70,Accidents,13582
+2012-13 ,2069/70,Fatalities,1816
+2012-13 ,2069/70,Serious Injuries,3986
+2012-13 ,2069/70,Slight Injuries,8000
 2012-13 ,2069/70,Injury/ fatal ratio,6.6
-2012-13 ,2069/70,Total vehicles,1545988.0
+2012-13 ,2069/70,Total vehicles,1545988
 2012-13 ,2069/70,Fatality per 10000 vehicles,11.75
